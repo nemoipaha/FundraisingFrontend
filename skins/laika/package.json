@@ -10,7 +10,7 @@
     "ci": "npm run lint && npm run test:unit"
   },
   "dependencies": {
-    "@airbrake/browser": "^1.4.1",
+    "@airbrake/browser": "^1.4.2",
     "@vue/composition-api": "^1.0.0-beta.18",
     "axios": "^0.21.0",
     "buefy": "^0.9.4",
@@ -31,11 +31,11 @@
     "@typescript-eslint/parser": "^2.34.0",
     "@vue/cli-plugin-babel": "^4.5.8",
     "@vue/cli-plugin-eslint": "^4.5.8",
-    "@vue/cli-plugin-typescript": "^4.5.8",
+    "@vue/cli-plugin-typescript": "^4.5.10",
     "@vue/cli-plugin-unit-jest": "^4.5.8",
     "@vue/cli-service": "^4.5.10",
     "@vue/eslint-config-typescript": "^5.1.0",
-    "@vue/test-utils": "1.1.1",
+    "@vue/test-utils": "1.1.2",
     "babel-eslint": "^10.1.0",
     "babel-jest": "^25.4.0",
     "eslint": "^6.8.0",
